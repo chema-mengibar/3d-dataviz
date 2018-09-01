@@ -1,0 +1,1001 @@
+[{
+    "cursor": 0,
+    "name": "Aruba",
+    "prefix": "abw"
+}, {
+    "cursor": 1,
+    "name": "Afghanistan",
+    "prefix": "afg"
+}, {
+    "cursor": 2,
+    "name": "Angola",
+    "prefix": "ago"
+}, {
+    "cursor": 3,
+    "name": "Anguilla",
+    "prefix": "aia"
+}, {
+    "cursor": 4,
+    "name": "\u00c5land Islands",
+    "prefix": "ala"
+}, {
+    "cursor": 5,
+    "name": "Albania",
+    "prefix": "alb"
+}, {
+    "cursor": 6,
+    "name": "Andorra",
+    "prefix": "and"
+}, {
+    "cursor": 7,
+    "name": "United Arab Emirates",
+    "prefix": "are"
+}, {
+    "cursor": 8,
+    "name": "Argentina",
+    "prefix": "arg"
+}, {
+    "cursor": 9,
+    "name": "Armenia",
+    "prefix": "arm"
+}, {
+    "cursor": 10,
+    "name": "American Samoa",
+    "prefix": "asm"
+}, {
+    "cursor": 11,
+    "name": "Antarctica",
+    "prefix": "ata"
+}, {
+    "cursor": 12,
+    "name": "French Southern and Antarctic Lands",
+    "prefix": "atf"
+}, {
+    "cursor": 13,
+    "name": "Antigua and Barbuda",
+    "prefix": "atg"
+}, {
+    "cursor": 14,
+    "name": "Australia",
+    "prefix": "aus"
+}, {
+    "cursor": 15,
+    "name": "Austria",
+    "prefix": "aut"
+}, {
+    "cursor": 16,
+    "name": "Azerbaijan",
+    "prefix": "aze"
+}, {
+    "cursor": 17,
+    "name": "Burundi",
+    "prefix": "bdi"
+}, {
+    "cursor": 18,
+    "name": "Belgium",
+    "prefix": "bel"
+}, {
+    "cursor": 19,
+    "name": "Benin",
+    "prefix": "ben"
+}, {
+    "cursor": 20,
+    "name": "Burkina Faso",
+    "prefix": "bfa"
+}, {
+    "cursor": 21,
+    "name": "Bangladesh",
+    "prefix": "bgd"
+}, {
+    "cursor": 22,
+    "name": "Bulgaria",
+    "prefix": "bgr"
+}, {
+    "cursor": 23,
+    "name": "Bahrain",
+    "prefix": "bhr"
+}, {
+    "cursor": 24,
+    "name": "Bahamas",
+    "prefix": "bhs"
+}, {
+    "cursor": 25,
+    "name": "Bosnia and Herzegovina",
+    "prefix": "bih"
+}, {
+    "cursor": 26,
+    "name": "Saint Barth\u00e9lemy",
+    "prefix": "blm"
+}, {
+    "cursor": 27,
+    "name": "Saint Helena, Ascension and Tristan da Cunha",
+    "prefix": "shn"
+}, {
+    "cursor": 28,
+    "name": "Belarus",
+    "prefix": "blr"
+}, {
+    "cursor": 29,
+    "name": "Belize",
+    "prefix": "blz"
+}, {
+    "cursor": 30,
+    "name": "Bermuda",
+    "prefix": "bmu"
+}, {
+    "cursor": 31,
+    "name": "Bolivia",
+    "prefix": "bol"
+}, {
+    "cursor": 32,
+    "name": "Caribbean Netherlands",
+    "prefix": "bes"
+}, {
+    "cursor": 33,
+    "name": "Brazil",
+    "prefix": "bra"
+}, {
+    "cursor": 34,
+    "name": "Barbados",
+    "prefix": "brb"
+}, {
+    "cursor": 35,
+    "name": "Brunei",
+    "prefix": "brn"
+}, {
+    "cursor": 36,
+    "name": "Bhutan",
+    "prefix": "btn"
+}, {
+    "cursor": 37,
+    "name": "Bouvet Island",
+    "prefix": "bvt"
+}, {
+    "cursor": 38,
+    "name": "Botswana",
+    "prefix": "bwa"
+}, {
+    "cursor": 39,
+    "name": "Central African Republic",
+    "prefix": "caf"
+}, {
+    "cursor": 40,
+    "name": "Canada",
+    "prefix": "can"
+}, {
+    "cursor": 41,
+    "name": "Cocos (Keeling) Islands",
+    "prefix": "cck"
+}, {
+    "cursor": 42,
+    "name": "Switzerland",
+    "prefix": "che"
+}, {
+    "cursor": 43,
+    "name": "Chile",
+    "prefix": "chl"
+}, {
+    "cursor": 44,
+    "name": "China",
+    "prefix": "chn"
+}, {
+    "cursor": 45,
+    "name": "Ivory Coast",
+    "prefix": "civ"
+}, {
+    "cursor": 46,
+    "name": "Cameroon",
+    "prefix": "cmr"
+}, {
+    "cursor": 47,
+    "name": "DR Congo",
+    "prefix": "cod"
+}, {
+    "cursor": 48,
+    "name": "Republic of the Congo",
+    "prefix": "cog"
+}, {
+    "cursor": 49,
+    "name": "Cook Islands",
+    "prefix": "cok"
+}, {
+    "cursor": 50,
+    "name": "Colombia",
+    "prefix": "col"
+}, {
+    "cursor": 51,
+    "name": "Comoros",
+    "prefix": "com"
+}, {
+    "cursor": 52,
+    "name": "Cape Verde",
+    "prefix": "cpv"
+}, {
+    "cursor": 53,
+    "name": "Costa Rica",
+    "prefix": "cri"
+}, {
+    "cursor": 54,
+    "name": "Cuba",
+    "prefix": "cub"
+}, {
+    "cursor": 55,
+    "name": "Cura\u00e7ao",
+    "prefix": "cuw"
+}, {
+    "cursor": 56,
+    "name": "Christmas Island",
+    "prefix": "cxr"
+}, {
+    "cursor": 57,
+    "name": "Cayman Islands",
+    "prefix": "cym"
+}, {
+    "cursor": 58,
+    "name": "Cyprus",
+    "prefix": "cyp"
+}, {
+    "cursor": 59,
+    "name": "Czechia",
+    "prefix": "cze"
+}, {
+    "cursor": 60,
+    "name": "Germany",
+    "prefix": "deu"
+}, {
+    "cursor": 61,
+    "name": "Djibouti",
+    "prefix": "dji"
+}, {
+    "cursor": 62,
+    "name": "Dominica",
+    "prefix": "dma"
+}, {
+    "cursor": 63,
+    "name": "Denmark",
+    "prefix": "dnk"
+}, {
+    "cursor": 64,
+    "name": "Dominican Republic",
+    "prefix": "dom"
+}, {
+    "cursor": 65,
+    "name": "Algeria",
+    "prefix": "dza"
+}, {
+    "cursor": 66,
+    "name": "Ecuador",
+    "prefix": "ecu"
+}, {
+    "cursor": 67,
+    "name": "Egypt",
+    "prefix": "egy"
+}, {
+    "cursor": 68,
+    "name": "Eritrea",
+    "prefix": "eri"
+}, {
+    "cursor": 69,
+    "name": "Western Sahara",
+    "prefix": "esh"
+}, {
+    "cursor": 70,
+    "name": "Spain",
+    "prefix": "esp"
+}, {
+    "cursor": 71,
+    "name": "Estonia",
+    "prefix": "est"
+}, {
+    "cursor": 72,
+    "name": "Ethiopia",
+    "prefix": "eth"
+}, {
+    "cursor": 73,
+    "name": "Finland",
+    "prefix": "fin"
+}, {
+    "cursor": 74,
+    "name": "Fiji",
+    "prefix": "fji"
+}, {
+    "cursor": 75,
+    "name": "Falkland Islands",
+    "prefix": "flk"
+}, {
+    "cursor": 76,
+    "name": "France",
+    "prefix": "fra"
+}, {
+    "cursor": 77,
+    "name": "Faroe Islands",
+    "prefix": "fro"
+}, {
+    "cursor": 78,
+    "name": "Micronesia",
+    "prefix": "fsm"
+}, {
+    "cursor": 79,
+    "name": "Gabon",
+    "prefix": "gab"
+}, {
+    "cursor": 80,
+    "name": "United Kingdom",
+    "prefix": "gbr"
+}, {
+    "cursor": 81,
+    "name": "Georgia",
+    "prefix": "geo"
+}, {
+    "cursor": 82,
+    "name": "Guernsey",
+    "prefix": "ggy"
+}, {
+    "cursor": 83,
+    "name": "Ghana",
+    "prefix": "gha"
+}, {
+    "cursor": 84,
+    "name": "Gibraltar",
+    "prefix": "gib"
+}, {
+    "cursor": 85,
+    "name": "Guinea",
+    "prefix": "gin"
+}, {
+    "cursor": 86,
+    "name": "Guadeloupe",
+    "prefix": "glp"
+}, {
+    "cursor": 87,
+    "name": "Gambia",
+    "prefix": "gmb"
+}, {
+    "cursor": 88,
+    "name": "Guinea-Bissau",
+    "prefix": "gnb"
+}, {
+    "cursor": 89,
+    "name": "Equatorial Guinea",
+    "prefix": "gnq"
+}, {
+    "cursor": 90,
+    "name": "Greece",
+    "prefix": "grc"
+}, {
+    "cursor": 91,
+    "name": "Grenada",
+    "prefix": "grd"
+}, {
+    "cursor": 92,
+    "name": "Greenland",
+    "prefix": "grl"
+}, {
+    "cursor": 93,
+    "name": "Guatemala",
+    "prefix": "gtm"
+}, {
+    "cursor": 94,
+    "name": "French Guiana",
+    "prefix": "guf"
+}, {
+    "cursor": 95,
+    "name": "Guam",
+    "prefix": "gum"
+}, {
+    "cursor": 96,
+    "name": "Guyana",
+    "prefix": "guy"
+}, {
+    "cursor": 97,
+    "name": "Hong Kong",
+    "prefix": "hkg"
+}, {
+    "cursor": 98,
+    "name": "Heard Island and McDonald Islands",
+    "prefix": "hmd"
+}, {
+    "cursor": 99,
+    "name": "Honduras",
+    "prefix": "hnd"
+}, {
+    "cursor": 100,
+    "name": "Croatia",
+    "prefix": "hrv"
+}, {
+    "cursor": 101,
+    "name": "Haiti",
+    "prefix": "hti"
+}, {
+    "cursor": 102,
+    "name": "Hungary",
+    "prefix": "hun"
+}, {
+    "cursor": 103,
+    "name": "Indonesia",
+    "prefix": "idn"
+}, {
+    "cursor": 104,
+    "name": "Isle of Man",
+    "prefix": "imn"
+}, {
+    "cursor": 105,
+    "name": "India",
+    "prefix": "ind"
+}, {
+    "cursor": 106,
+    "name": "British Indian Ocean Territory",
+    "prefix": "iot"
+}, {
+    "cursor": 107,
+    "name": "Ireland",
+    "prefix": "irl"
+}, {
+    "cursor": 108,
+    "name": "Iran",
+    "prefix": "irn"
+}, {
+    "cursor": 109,
+    "name": "Iraq",
+    "prefix": "irq"
+}, {
+    "cursor": 110,
+    "name": "Iceland",
+    "prefix": "isl"
+}, {
+    "cursor": 111,
+    "name": "Israel",
+    "prefix": "isr"
+}, {
+    "cursor": 112,
+    "name": "Italy",
+    "prefix": "ita"
+}, {
+    "cursor": 113,
+    "name": "Jamaica",
+    "prefix": "jam"
+}, {
+    "cursor": 114,
+    "name": "Jersey",
+    "prefix": "jey"
+}, {
+    "cursor": 115,
+    "name": "Jordan",
+    "prefix": "jor"
+}, {
+    "cursor": 116,
+    "name": "Japan",
+    "prefix": "jpn"
+}, {
+    "cursor": 117,
+    "name": "Kazakhstan",
+    "prefix": "kaz"
+}, {
+    "cursor": 118,
+    "name": "Kenya",
+    "prefix": "ken"
+}, {
+    "cursor": 119,
+    "name": "Kyrgyzstan",
+    "prefix": "kgz"
+}, {
+    "cursor": 120,
+    "name": "Cambodia",
+    "prefix": "khm"
+}, {
+    "cursor": 121,
+    "name": "Kiribati",
+    "prefix": "kir"
+}, {
+    "cursor": 122,
+    "name": "Saint Kitts and Nevis",
+    "prefix": "kna"
+}, {
+    "cursor": 123,
+    "name": "South Korea",
+    "prefix": "kor"
+}, {
+    "cursor": 124,
+    "name": "Kosovo",
+    "prefix": "unk"
+}, {
+    "cursor": 125,
+    "name": "Kuwait",
+    "prefix": "kwt"
+}, {
+    "cursor": 126,
+    "name": "Laos",
+    "prefix": "lao"
+}, {
+    "cursor": 127,
+    "name": "Lebanon",
+    "prefix": "lbn"
+}, {
+    "cursor": 128,
+    "name": "Liberia",
+    "prefix": "lbr"
+}, {
+    "cursor": 129,
+    "name": "Libya",
+    "prefix": "lby"
+}, {
+    "cursor": 130,
+    "name": "Saint Lucia",
+    "prefix": "lca"
+}, {
+    "cursor": 131,
+    "name": "Liechtenstein",
+    "prefix": "lie"
+}, {
+    "cursor": 132,
+    "name": "Sri Lanka",
+    "prefix": "lka"
+}, {
+    "cursor": 133,
+    "name": "Lesotho",
+    "prefix": "lso"
+}, {
+    "cursor": 134,
+    "name": "Lithuania",
+    "prefix": "ltu"
+}, {
+    "cursor": 135,
+    "name": "Luxembourg",
+    "prefix": "lux"
+}, {
+    "cursor": 136,
+    "name": "Latvia",
+    "prefix": "lva"
+}, {
+    "cursor": 137,
+    "name": "Macau",
+    "prefix": "mac"
+}, {
+    "cursor": 138,
+    "name": "Saint Martin",
+    "prefix": "maf"
+}, {
+    "cursor": 139,
+    "name": "Morocco",
+    "prefix": "mar"
+}, {
+    "cursor": 140,
+    "name": "Monaco",
+    "prefix": "mco"
+}, {
+    "cursor": 141,
+    "name": "Moldova",
+    "prefix": "mda"
+}, {
+    "cursor": 142,
+    "name": "Madagascar",
+    "prefix": "mdg"
+}, {
+    "cursor": 143,
+    "name": "Maldives",
+    "prefix": "mdv"
+}, {
+    "cursor": 144,
+    "name": "Mexico",
+    "prefix": "mex"
+}, {
+    "cursor": 145,
+    "name": "Marshall Islands",
+    "prefix": "mhl"
+}, {
+    "cursor": 146,
+    "name": "Macedonia",
+    "prefix": "mkd"
+}, {
+    "cursor": 147,
+    "name": "Mali",
+    "prefix": "mli"
+}, {
+    "cursor": 148,
+    "name": "Malta",
+    "prefix": "mlt"
+}, {
+    "cursor": 149,
+    "name": "Myanmar",
+    "prefix": "mmr"
+}, {
+    "cursor": 150,
+    "name": "Montenegro",
+    "prefix": "mne"
+}, {
+    "cursor": 151,
+    "name": "Mongolia",
+    "prefix": "mng"
+}, {
+    "cursor": 152,
+    "name": "Northern Mariana Islands",
+    "prefix": "mnp"
+}, {
+    "cursor": 153,
+    "name": "Mozambique",
+    "prefix": "moz"
+}, {
+    "cursor": 154,
+    "name": "Mauritania",
+    "prefix": "mrt"
+}, {
+    "cursor": 155,
+    "name": "Montserrat",
+    "prefix": "msr"
+}, {
+    "cursor": 156,
+    "name": "Martinique",
+    "prefix": "mtq"
+}, {
+    "cursor": 157,
+    "name": "Mauritius",
+    "prefix": "mus"
+}, {
+    "cursor": 158,
+    "name": "Malawi",
+    "prefix": "mwi"
+}, {
+    "cursor": 159,
+    "name": "Malaysia",
+    "prefix": "mys"
+}, {
+    "cursor": 160,
+    "name": "Mayotte",
+    "prefix": "myt"
+}, {
+    "cursor": 161,
+    "name": "Namibia",
+    "prefix": "nam"
+}, {
+    "cursor": 162,
+    "name": "New Caledonia",
+    "prefix": "ncl"
+}, {
+    "cursor": 163,
+    "name": "Niger",
+    "prefix": "ner"
+}, {
+    "cursor": 164,
+    "name": "Norfolk Island",
+    "prefix": "nfk"
+}, {
+    "cursor": 165,
+    "name": "Nigeria",
+    "prefix": "nga"
+}, {
+    "cursor": 166,
+    "name": "Nicaragua",
+    "prefix": "nic"
+}, {
+    "cursor": 167,
+    "name": "Niue",
+    "prefix": "niu"
+}, {
+    "cursor": 168,
+    "name": "Netherlands",
+    "prefix": "nld"
+}, {
+    "cursor": 169,
+    "name": "Norway",
+    "prefix": "nor"
+}, {
+    "cursor": 170,
+    "name": "Nepal",
+    "prefix": "npl"
+}, {
+    "cursor": 171,
+    "name": "Nauru",
+    "prefix": "nru"
+}, {
+    "cursor": 172,
+    "name": "New Zealand",
+    "prefix": "nzl"
+}, {
+    "cursor": 173,
+    "name": "Oman",
+    "prefix": "omn"
+}, {
+    "cursor": 174,
+    "name": "Pakistan",
+    "prefix": "pak"
+}, {
+    "cursor": 175,
+    "name": "Panama",
+    "prefix": "pan"
+}, {
+    "cursor": 176,
+    "name": "Pitcairn Islands",
+    "prefix": "pcn"
+}, {
+    "cursor": 177,
+    "name": "Peru",
+    "prefix": "per"
+}, {
+    "cursor": 178,
+    "name": "Philippines",
+    "prefix": "phl"
+}, {
+    "cursor": 179,
+    "name": "Palau",
+    "prefix": "plw"
+}, {
+    "cursor": 180,
+    "name": "Papua New Guinea",
+    "prefix": "png"
+}, {
+    "cursor": 181,
+    "name": "Poland",
+    "prefix": "pol"
+}, {
+    "cursor": 182,
+    "name": "Puerto Rico",
+    "prefix": "pri"
+}, {
+    "cursor": 183,
+    "name": "North Korea",
+    "prefix": "prk"
+}, {
+    "cursor": 184,
+    "name": "Portugal",
+    "prefix": "prt"
+}, {
+    "cursor": 185,
+    "name": "Paraguay",
+    "prefix": "pry"
+}, {
+    "cursor": 186,
+    "name": "Palestine",
+    "prefix": "pse"
+}, {
+    "cursor": 187,
+    "name": "French Polynesia",
+    "prefix": "pyf"
+}, {
+    "cursor": 188,
+    "name": "Qatar",
+    "prefix": "qat"
+}, {
+    "cursor": 189,
+    "name": "R\u00e9union",
+    "prefix": "reu"
+}, {
+    "cursor": 190,
+    "name": "Romania",
+    "prefix": "rou"
+}, {
+    "cursor": 191,
+    "name": "Russia",
+    "prefix": "rus"
+}, {
+    "cursor": 192,
+    "name": "Rwanda",
+    "prefix": "rwa"
+}, {
+    "cursor": 193,
+    "name": "Saudi Arabia",
+    "prefix": "sau"
+}, {
+    "cursor": 194,
+    "name": "Sudan",
+    "prefix": "sdn"
+}, {
+    "cursor": 195,
+    "name": "Senegal",
+    "prefix": "sen"
+}, {
+    "cursor": 196,
+    "name": "Singapore",
+    "prefix": "sgp"
+}, {
+    "cursor": 197,
+    "name": "South Georgia",
+    "prefix": "sgs"
+}, {
+    "cursor": 198,
+    "name": "Svalbard and Jan Mayen",
+    "prefix": "sjm"
+}, {
+    "cursor": 199,
+    "name": "Solomon Islands",
+    "prefix": "slb"
+}, {
+    "cursor": 200,
+    "name": "Sierra Leone",
+    "prefix": "sle"
+}, {
+    "cursor": 201,
+    "name": "El Salvador",
+    "prefix": "slv"
+}, {
+    "cursor": 202,
+    "name": "San Marino",
+    "prefix": "smr"
+}, {
+    "cursor": 203,
+    "name": "Somalia",
+    "prefix": "som"
+}, {
+    "cursor": 204,
+    "name": "Saint Pierre and Miquelon",
+    "prefix": "spm"
+}, {
+    "cursor": 205,
+    "name": "Serbia",
+    "prefix": "srb"
+}, {
+    "cursor": 206,
+    "name": "South Sudan",
+    "prefix": "ssd"
+}, {
+    "cursor": 207,
+    "name": "S\u00e3o Tom\u00e9 and Pr\u00edncipe",
+    "prefix": "stp"
+}, {
+    "cursor": 208,
+    "name": "Suriname",
+    "prefix": "sur"
+}, {
+    "cursor": 209,
+    "name": "Slovakia",
+    "prefix": "svk"
+}, {
+    "cursor": 210,
+    "name": "Slovenia",
+    "prefix": "svn"
+}, {
+    "cursor": 211,
+    "name": "Sweden",
+    "prefix": "swe"
+}, {
+    "cursor": 212,
+    "name": "Swaziland",
+    "prefix": "swz"
+}, {
+    "cursor": 213,
+    "name": "Sint Maarten",
+    "prefix": "sxm"
+}, {
+    "cursor": 214,
+    "name": "Seychelles",
+    "prefix": "syc"
+}, {
+    "cursor": 215,
+    "name": "Syria",
+    "prefix": "syr"
+}, {
+    "cursor": 216,
+    "name": "Turks and Caicos Islands",
+    "prefix": "tca"
+}, {
+    "cursor": 217,
+    "name": "Chad",
+    "prefix": "tcd"
+}, {
+    "cursor": 218,
+    "name": "Togo",
+    "prefix": "tgo"
+}, {
+    "cursor": 219,
+    "name": "Thailand",
+    "prefix": "tha"
+}, {
+    "cursor": 220,
+    "name": "Tajikistan",
+    "prefix": "tjk"
+}, {
+    "cursor": 221,
+    "name": "Tokelau",
+    "prefix": "tkl"
+}, {
+    "cursor": 222,
+    "name": "Turkmenistan",
+    "prefix": "tkm"
+}, {
+    "cursor": 223,
+    "name": "Timor-Leste",
+    "prefix": "tls"
+}, {
+    "cursor": 224,
+    "name": "Tonga",
+    "prefix": "ton"
+}, {
+    "cursor": 225,
+    "name": "Trinidad and Tobago",
+    "prefix": "tto"
+}, {
+    "cursor": 226,
+    "name": "Tunisia",
+    "prefix": "tun"
+}, {
+    "cursor": 227,
+    "name": "Turkey",
+    "prefix": "tur"
+}, {
+    "cursor": 228,
+    "name": "Tuvalu",
+    "prefix": "tuv"
+}, {
+    "cursor": 229,
+    "name": "Taiwan",
+    "prefix": "twn"
+}, {
+    "cursor": 230,
+    "name": "Tanzania",
+    "prefix": "tza"
+}, {
+    "cursor": 231,
+    "name": "Uganda",
+    "prefix": "uga"
+}, {
+    "cursor": 232,
+    "name": "Ukraine",
+    "prefix": "ukr"
+}, {
+    "cursor": 233,
+    "name": "United States Minor Outlying Islands",
+    "prefix": "umi"
+}, {
+    "cursor": 234,
+    "name": "Uruguay",
+    "prefix": "ury"
+}, {
+    "cursor": 235,
+    "name": "United States",
+    "prefix": "usa"
+}, {
+    "cursor": 236,
+    "name": "Uzbekistan",
+    "prefix": "uzb"
+}, {
+    "cursor": 237,
+    "name": "Vatican City",
+    "prefix": "vat"
+}, {
+    "cursor": 238,
+    "name": "Saint Vincent and the Grenadines",
+    "prefix": "vct"
+}, {
+    "cursor": 239,
+    "name": "Venezuela",
+    "prefix": "ven"
+}, {
+    "cursor": 240,
+    "name": "British Virgin Islands",
+    "prefix": "vgb"
+}, {
+    "cursor": 241,
+    "name": "United States Virgin Islands",
+    "prefix": "vir"
+}, {
+    "cursor": 242,
+    "name": "Vietnam",
+    "prefix": "vnm"
+}, {
+    "cursor": 243,
+    "name": "Vanuatu",
+    "prefix": "vut"
+}, {
+    "cursor": 244,
+    "name": "Wallis and Futuna",
+    "prefix": "wlf"
+}, {
+    "cursor": 245,
+    "name": "Samoa",
+    "prefix": "wsm"
+}, {
+    "cursor": 246,
+    "name": "Yemen",
+    "prefix": "yem"
+}, {
+    "cursor": 247,
+    "name": "South Africa",
+    "prefix": "zaf"
+}, {
+    "cursor": 248,
+    "name": "Zambia",
+    "prefix": "zmb"
+}, {
+    "cursor": 249,
+    "name": "Zimbabwe",
+    "prefix": "zwe"
+}]

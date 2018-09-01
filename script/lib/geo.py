@@ -17,9 +17,9 @@ class Geo( object ):
     #     # _x = float( center[0] + (radius * cos(angle)) )
     #     # _y = float( center[1] + (radius * sin(angle)) )
     #
-    #     x = cos( _lat ) * cos( _lon ) * _r
-    #     y = cos( _lat ) * sin( _lon ) * _r
-    #     z = sin( _lat ) * _r
+    #     x = cos( _lat ) * cos( _lon ) * self.EARTH_A
+    #     y = cos( _lat ) * sin( _lon ) * self.EARTH_A
+    #     z = sin( _lat ) * self.EARTH_A
     #
     #     return [ x, y, z ]
 
@@ -27,12 +27,16 @@ class Geo( object ):
         self.EARTH_A = _r
         self.EARTH_B = _r
 
+    def scaleEarthRadius( self, scala ):
+        self.EARTH_A = self.EARTH_A / scala
+        self.EARTH_B = self.EARTH_B / scala
+
     def coorToXyz( self, _lat, _lon, _altkm ):
         dtr =  self.dtr
         ecc = self.ecc
         esq = ecc*ecc
 
-        flat = float( _lat )
+        flat = _lat
         clat = cos( dtr * _lat )
         slat = sin( dtr * _lat )
         clon = cos( dtr * _lon )
@@ -44,7 +48,7 @@ class Geo( object ):
         y = ( rn + _altkm ) * clat * slon
         z = ( ( 1-esq ) * rn + _altkm ) * slat
 
-        return [ x, y, z ]
+        return [ x, -y, z ] # mirror position  -x
 
 
     def radcur( self, _lat ):

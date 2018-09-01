@@ -17,12 +17,16 @@ _layers = (True, False, False, False, False, False, False, False, False, False, 
 class Creator( object ):
     def __init__(self, pConfig ):
         bpyscene = bpy.context.scene
+
         aConfig = Struct(**pConfig)
 
         configMaterial = bpy.data.materials.get( aConfig.material )
 
         if 'position' in pConfig:
           aConfig.position = Struct( **pConfig['position'] )
+
+        # if 'verts' in pConfig:
+        #   aConfig.verts = Struct( **pConfig['verts'] )
 
         if( aConfig.type == 'sphere' ):
             # Create an empty mesh and the object.
@@ -148,3 +152,24 @@ class Creator( object ):
 
             _spline.points[3].co = Vector(( pointB.x, (pointB.y - difY) ,  (pointB.z - difZ), _wResolution))
             _spline.points[4].co = Vector((pointB.x, pointB.y, pointB.z, _wEdges)) # x, y, z, weight
+
+        elif( aConfig.type == 'triangle' ):
+
+            # verts1 = ((0, 3),(2.5, 0.5),(5, 1),(4.5, 3.5),(10.5, 2),(8, 10),(7, 4.5),(2, 6))
+            # print( verts1 )
+            verts = tuple(tuple(x) for x in aConfig.verts )
+            # print( verts )
+            bm = bmesh.new()
+            for v in verts:
+                bm.verts.new((v[0], v[1], v[2]))
+            bm.faces.new( bm.verts )
+
+            bm.normal_update()
+
+            me = bpy.data.meshes.new("a")
+            bm.to_mesh(me)
+
+            ob = bpy.data.objects.new( aConfig.name , me)
+            ob.data.materials.append( configMaterial )
+            bpy.context.scene.objects.link(ob)
+            bpy.context.scene.update()

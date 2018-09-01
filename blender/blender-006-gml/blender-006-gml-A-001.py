@@ -2,9 +2,10 @@ import os
 from os import listdir
 from os.path import isfile, join
 from math import cos, sin, pi
-
 import sys
+
 import json
+import csv
 
 currentDir = os.path.abspath(os.path.join(os.path.dirname(__file__),"../"))
 currentFileName = os.path.basename(__file__)
